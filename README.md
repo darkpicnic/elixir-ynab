@@ -1,6 +1,8 @@
 # Metatron
 
-**TODO: Add description**
+A simple Elixir library for accessing the YNAB API
+
+WARNING: Actively in development. Do not use for production.
 
 ## Installation
 
@@ -18,4 +20,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/metatron](https://hexdocs.pm/metatron).
-
